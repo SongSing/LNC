@@ -1,1 +1,6 @@
-/**/
+input
+{
+	font-size:24px;
+	width:calc(100% - 64px);
+	margin:4px
+}
